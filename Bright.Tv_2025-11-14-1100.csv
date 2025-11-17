@@ -1,0 +1,59 @@
+﻿Row Labels,Count of CHANNEL2
+Africa Magic,859
+Boomerang,714
+Break in transmission,66
+Cartoon Network,793
+Channel O,1050
+CNN,505
+DStv Events 1,107
+E! Entertainment,367
+ICC Cricket World Cup 2011,1465
+kykNET,45
+Live on SuperSport,2
+MK,32
+M-Net,116
+Not defined,989
+SawSee,255
+SuperSport Blitz,896
+Supersport Live Events,1662
+Trace TV,952
+Vuzu,111
+Wimbledon,3
+(blank),
+Grand Total,10989
+,
+,
+Row Labels,Count of GENDER
+female,1026
+male,8956
+None,789
+Grand Total,10771
+,
+,
+Row Labels,Count of DURATION_INTERVAL
+< 1 hour,426
+< 30 minutes,5495
+> 1 hour,5068
+Grand Total,10989
+,
+Row Labels,Count of PROVINCE
+Eastern Cape,706
+Free State,301
+Gauteng,3969
+Kwazulu Natal,1034
+Limpopo,789
+Mpumalanga,948
+North West,353
+Northern Cape,234
+Western Cape,1866
+Grand Total,10200
+,
+,
+Row Labels,Count of RACE
+black,4480
+coloured,1659
+indian_asian,1588
+None,1595
+other,108
+white,1559
+Grand Total,10989
